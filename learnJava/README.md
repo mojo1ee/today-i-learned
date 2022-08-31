@@ -1,1 +1,3 @@
-# Day2 of Java 
+# Java Journey 
+
+...
