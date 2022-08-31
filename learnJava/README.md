@@ -1,1 +1,1 @@
-My Java Learning Jouney for the next 4~6 weeks. 
+# Day2 of Java 
